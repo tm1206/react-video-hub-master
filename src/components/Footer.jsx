@@ -58,18 +58,17 @@ const Footer = () => {
             Social Media
           </Heading>
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://youtube.com/6packprogrammer">
-              Youtube
+            <a target={'blank'} href="https://www.linkedin.com/in/tarang-munje-b852b4273/">
+              LinkedIn
             </a>
           </Button>
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://instagram.com/meabhisingh">
-              Instagram
+            <a target={'blank'} href="https://x.com/tarang1206">
+              Twitter
             </a>
           </Button>
-
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://github.com/meabhisingh">
+            <a target={'blank'} href="https://github.com/tm1206">
               Github
             </a>
           </Button>
